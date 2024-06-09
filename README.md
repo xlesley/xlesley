@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lesley</h1>
-<h3 align="center">A informatics student</h3>
+<h3 align="center">An informatics student</h3>
 
 <p align="center">
-<img src="https://img.picgo.net/2024/06/09/IMG_18988777d845dc25ba72.jpeg" alt="IMG 1898" border="0" width="20%">
+<img src="https://img.picgo.net/2024/06/09/IMG_18988777d845dc25ba72.jpeg" alt="IMG 1898" style="width: 40%; max-width: 600px; height: auto; border: 0;">
+</p>
+
+<p align="center">
+    ˚💙₊⁺ 🎼₊⁺⑉📘 🎧』♪*ﾟ ⟢。˖✶ ‧₊˚🫐⸝⸝꙳🐋✧* 🩵 𓏲∙🧊´❄️.✰•.🪄 .✰•🤍•.๑ ﾟ･｡♡⁺◟✿ 🫧 ⌒🌧️*
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
